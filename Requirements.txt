@@ -1,0 +1,7 @@
+sqlite3
+re
+uuid
+datetime
+tkinter
+customtkinter
+bcrypt
